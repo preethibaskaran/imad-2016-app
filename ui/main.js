@@ -37,7 +37,6 @@ request.onreadystatechange = function (){
 };
 var nameInput = document.getElementById('Name');
 var name = nameInput.value;
-
 request.open('GET','http://abilash26.imad.hasura-app.io/submit-name?name='+ name,true);
 request.send(null);
 };
