@@ -45,7 +45,7 @@ body {
     border-bottom: 1px solid #ccc;
 }
 
-hr { 
+.hr { 
     display: block;
     color: #4a4a4a;
     margin-top: 0.5em;
