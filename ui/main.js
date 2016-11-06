@@ -83,7 +83,7 @@ function loadLoggedInUser (username) {
     loginArea.innerHTML = `
         <h3> Hi <i>${username}</i></h3>
         <a href="/logout">Logout</a>
-        <meta http-equiv="refresh" content="0; URL='http://abilash26.imad.hasura-app.io/'" />
+        <meta http-equiv="refresh" content="0; URL='http://abilash26.imad.hasura-app.io/home.html'" />
     `;
 }
 
