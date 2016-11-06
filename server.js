@@ -178,6 +178,7 @@ function createTemplate (data) {
             </div>
         </div>
     </footer>
+    <script type="text/javascript" src="/ui/article.js"></script>
 
 
 
