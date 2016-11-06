@@ -1,6 +1,6 @@
 function loadLoginForm () {
     var loginHtml = `
-        <input type="text" id="username" placeholder="username" />
+        <input type="text" id="username" placeholder="Username" />
         <input type="password" id="password" placeholder="Password" />
         <br/><br/>
         <input type="submit" id="login_btn" value="Login" class="login login-submit" />
