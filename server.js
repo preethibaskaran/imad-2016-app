@@ -73,20 +73,20 @@ function createTemplate (data) {
                     <span class="sr-only">Toggle navigation</span>
                     Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.html">Home</a>
+                <a class="navbar-brand" href="/ui/home.html">Home</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.html">About</a>
+                        <a href="/ui/about.html">About</a>
                     </li>
                     <li>
-                        <a href="about.html">Contact</a>
+                        <a href="/ui/contact.html">Contact</a>
                     </li>
                     <li>
-                        <a href="http://abilash26.imad.hasura-app.io/logout">Logout</a>
+                        <a href="/logout">Logout</a>
                     </li>
                 </ul>
             </div>
