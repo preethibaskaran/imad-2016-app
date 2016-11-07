@@ -83,6 +83,7 @@ function loadLoggedInUser (username) {
     loginArea.innerHTML = `
         <h3> Hi <i>${username}</i></h3>
         <a href="/logout">Logout</a>
+        <a href="/ui/home.html">Home</a>
         <meta http-equiv="refresh" content="0; URL='/ui/home.html'" />
     `;
 }
